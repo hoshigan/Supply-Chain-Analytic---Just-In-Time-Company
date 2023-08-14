@@ -98,7 +98,7 @@ Questions:
 
 1. What are the total net sales, profit and profit margin by the company?
 
-2. What are the average net sales, profit and profit margin per month?
+2. What are the average net sales and profit per month?
 
 3. How do the net sales and profit change over time?
 
@@ -157,7 +157,7 @@ Looking deeper into the product department, we can better gain insights into the
 
 3. Although over time, the buying behavior from key customer market has changed significantly, but the demand for ordering does not seem to have a strong fluctuation
 
-4. Since both revenue and cost have dropped dramatically, there might be an incident resulting in the company being unable to continue selling those best-selling inventory. This can happen due to supply chain disruption. Also, the best selling products are always imported by the company a lot, while new products such as Technology have only been imported in a short time. Therefore, it is not excluded that the company intentionally changes its product offerings to test market demand
+4. Since both revenue and storage cost have dropped dramatically, there might be an incident resulting in the company being unable to continue selling those best-selling inventory. This can happen due to supply chain disruption. Also, the best selling products are always imported by the company a lot, while new products such as Technology have only been imported in a short time. Therefore, it is not excluded that the company intentionally changes its product offerings to test market demand
 
 5. Interestingly, the best-selling parts have the longest replenishment times, in stark contrast to lesser-known products like Technology and Health and Beauty.
 
@@ -178,6 +178,8 @@ Question: How can the company bounce back and re-establish business as before wh
 To be able to solve the problem, it is first necessary to find out where the root cause comes from in the supply chain
 
 Based on the output of EDA, a Hypothesis issue tree was developed
+
+![image](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/8bf8a194-2365-4276-b783-19cc9e68af50)
 
 A supply chain will consist of three main components: suppliers - company - customers.
 
