@@ -1,4 +1,9 @@
 **SUPPLY CHAIN ANALYTICS - JUST IN TIME COMPANY**
+![1](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/4641de54-2350-4a3a-a9f4-b490094328ce)
+
+![2](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/c1f801eb-da1f-408a-972e-6b8ffee3398c)
+
+![3](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/79d782c2-d00c-429d-9de5-9601710af2ce)
 
 **I) PROJECT DESCRIPTION**
 
