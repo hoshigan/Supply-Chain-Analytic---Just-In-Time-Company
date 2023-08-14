@@ -5,6 +5,8 @@
 
 ![3](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/79d782c2-d00c-429d-9de5-9601710af2ce)
 
+![4](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/7d770135-d211-4c80-89d0-835ea0c585db)
+
 **I) PROJECT DESCRIPTION**
 
 The project provides a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
